@@ -9,7 +9,7 @@
 
 * Curso : <b>Fundamentos de JavaScript</b>
 * Professor : <b>Erick Wendel<b>
-* Link do Cruso : [Curso Fundamentos de JavaScript](https://cursos.erickwendel.com.br/)
+* Link do Curso : [Curso Fundamentos de JavaScript](https://cursos.erickwendel.com.br/)
 
 ## Linguagem & Ferramentas Utilizadas: 
 
