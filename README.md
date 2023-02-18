@@ -1,6 +1,6 @@
 # Curso Fundamentos de JavaScript
 
-<div align=center>
+<div align="center">
 ![image](https://user-images.githubusercontent.com/125761885/219883405-e74c2ba2-8524-45ce-9479-cc4f0ee786cf.png)
 </div>
   
