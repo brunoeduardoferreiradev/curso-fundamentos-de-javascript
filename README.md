@@ -1,7 +1,9 @@
 # Curso Fundamentos de JavaScript
 
+<div align=center>
 ![image](https://user-images.githubusercontent.com/125761885/219883405-e74c2ba2-8524-45ce-9479-cc4f0ee786cf.png)
-
+</div>
+  
 ## Dados do Curso
 ![Badge em Curso](http://img.shields.io/static/v1?label=STATUS&message=EM%20CURSO&color=YELLOW&style=for-the-badge)
 
