@@ -1,7 +1,7 @@
 # Curso Fundamentos de JavaScript
 
 ## Dados do Curso
-![Badge em Curso](https://img.shields.io/badge/Status-Em%20Curso-yellow)
+![Badge em Curso](http://img.shields.io/static/v1?label=STATUS&message=EM%20CURSO&color=YELLOW&style=for-the-badge)
 
 * Curso : Fundamentos de JavaScript
 * Professor : Erick Wendel
