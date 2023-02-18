@@ -1,6 +1,10 @@
-# curso-fundamentos-de-javascript
+# Curso Fundamentos de JavaScript
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+## Dados do Curso
+* Status : ![Badge em Curso](http://img.shields.io/static/v1?label=STATUS&message=EM%20CURSO&color=YELLOW&style=for-the-badge)
+* Curso : Fundamentos de JavaScript
+* Professor : Erick Wendel
+* Linguagem : ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Descrição
-Anotações e Código Fonte Desenvolvidos durante o Curso de Fundamentos de JavaScript do Erick Wendel
+
