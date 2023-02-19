@@ -7,6 +7,7 @@ const heroi = {
 
 // Listando os atributos do objeto heroi
 console.log('Nome  : ', heroi.nome);
+console.log('Idade : ', heroi['idade']);
 console.log('Sexo  : ', heroi.sexo);
 console.log('naoExiste : ', heroi.naoExiste);
 
