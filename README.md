@@ -23,7 +23,7 @@
 * ✔ 📁- Módulo 03 - Tipos de Dados - Parte 01
 * ✔ 📁- Módulo 04 - Tipos de Dados - Parte 02
 * ✔ 📁- Módulo 05 - Tipos de Dados - Parte 03
-* 📁- Módulo 06 - Controlando o fluxo de dados
+* ✔ 📁- Módulo 06 - Controlando o fluxo de dados
 * 📁- Módulo 07 - Módulos em Javascript
 * 📁- Módulo 08 - O Ciclo de vida Javascript
 * 📁- Módulo 09 - Projeto final: Construindo um jogo da Memória
