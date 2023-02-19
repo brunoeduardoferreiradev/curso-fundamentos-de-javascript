@@ -18,11 +18,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Ementa
-* 📁- Módulo 01 - Introdução ao Curso
-* 📁- Módulo 02 - Iniciando com JavaScript 
-* 📁- Módulo 03 - Tipos de Dados - Parte 01
-* 📁- Módulo 04 - Tipos de Dados - Parte 02
-* 📁- Módulo 05 - Tipos de Dados - Parte 03
+* ✔ 📁- Módulo 01 - Introdução ao Curso
+* ✔ 📁- Módulo 02 - Iniciando com JavaScript 
+* ✔ 📁- Módulo 03 - Tipos de Dados - Parte 01
+* ✔ 📁- Módulo 04 - Tipos de Dados - Parte 02
+* ✔ 📁- Módulo 05 - Tipos de Dados - Parte 03
 * 📁- Módulo 06 - Controlando o fluxo de dados
 * 📁- Módulo 07 - Módulos em Javascript
 * 📁- Módulo 08 - O Ciclo de vida Javascript
