@@ -1,0 +1,11 @@
+const resultado = 1 ? (null || ((1 != '1') ? "Hello world!" : "Hackerzao")) : "não zero";
+console.log(resultado);
+
+const item = "abc";
+console.log(isNaN(item) ? "Hey jude" : "Hey Julia");
+
+const item2 = (!0 ? "2a" : "3b")
+console.log(item2);
+
+const item3 = "0"; console.log(!!item3);
+
