@@ -28,4 +28,4 @@
 * ✔ 📁- Módulo 07 - Módulos em Javascript
 * 📁- Módulo 08 - O Ciclo de vida Javascript
 * 📁- Módulo 09 - Projeto final: Construindo um jogo da Memória
-* 📁- Módulo 10 - Próximos passos
+* ✔ 📁- Módulo 10 - Próximos passos
