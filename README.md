@@ -7,7 +7,7 @@
 ## Dados do Curso
 ![Badge em Status](https://img.shields.io/badge/STATUS-CURSANDO-yellow?style=for-the-badge)
 
-* Início :  <b>18/02/2023</b> - Finalizado : <b>00/00/000 </b>
+* Início :  <b>18/02/2023</b> - Finalizado : <b>23/02/2023 </b>
 * Curso : <b>Fundamentos de JavaScript</b>
 * Professor : <b>Erick Wendel</b>
 * Link do Curso : [Curso Fundamentos de JavaScript](https://cursos.erickwendel.com.br/)
@@ -28,5 +28,5 @@
 * ✔ 📁- Módulo 06 - Controlando o fluxo de dados
 * ✔ 📁- Módulo 07 - Módulos em Javascript
 * ✔ 📁- Módulo 08 - O Ciclo de vida Javascript
-* 📁- Módulo 09 - Projeto final: Construindo um jogo da Memória
+* ✔ 📁- Módulo 09 - Projeto final: Construindo um jogo da Memória
 * ✔ 📁- Módulo 10 - Próximos passos
