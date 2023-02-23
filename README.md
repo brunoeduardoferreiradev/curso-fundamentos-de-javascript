@@ -5,7 +5,7 @@
 </div>
   
 ## Dados do Curso
-![Badge em Status](https://img.shields.io/badge/STATUS-CURSANDO-yellow?style=for-the-badge)
+![Badge em Status](https://img.shields.io/badge/STATUS-FINALIZADO-Green?style=for-the-badge)
 
 * Início :  <b>18/02/2023</b> - Finalizado : <b>23/02/2023 </b>
 * Curso : <b>Fundamentos de JavaScript</b>
